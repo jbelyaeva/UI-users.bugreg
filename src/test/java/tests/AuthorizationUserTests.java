@@ -12,7 +12,7 @@ public class AuthorizationUserTests extends TestBase {
   private User user;
 
   @BeforeMethod
-  private void insurePrecondition() {
+  private void ensurePrecondition() {
     String pref = String.valueOf(ThreadLocalRandom.current().nextInt(1, 1000));
 
     user = new User()
