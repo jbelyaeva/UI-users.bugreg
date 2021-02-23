@@ -1,4 +1,5 @@
 .idea
+*.log
 allure-report/
 target/
 pom.xml.tag
