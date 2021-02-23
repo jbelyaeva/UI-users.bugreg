@@ -1,0 +1,10 @@
+4756 [main] INFO  tastbase.TestBase - Start test testRegistrationBadNewUser with parameters [User{name='', email='julja83@list.ru', password='12345678'}]
+15439 [main] INFO  tastbase.TestBase - Stop test testRegistrationBadNewUser
+15441 [main] INFO  tastbase.TestBase - Start test testRegistrationBadNewUser with parameters [User{name='AnnaPol', email=' ', password='12345678'}]
+22442 [main] INFO  tastbase.TestBase - Stop test testRegistrationBadNewUser
+22443 [main] INFO  tastbase.TestBase - Start test testRegistrationBadNewUser with parameters [User{name='AnnaPol', email='julja83@list.ru', password=''}]
+29506 [main] INFO  tastbase.TestBase - Stop test testRegistrationBadNewUser
+29509 [main] INFO  tastbase.TestBase - Start test testRegistrationNewUser with parameters [User{name='AnnaPol', email='julja83@list.ru', password='12345678'}]
+34684 [main] INFO  tastbase.TestBase - Stop test testRegistrationNewUser
+34687 [main] INFO  tastbase.TestBase - Start test testAuthorizationUser with parameters []
+39871 [main] INFO  tastbase.TestBase - Stop test testAuthorizationUser
